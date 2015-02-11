@@ -1,0 +1,43 @@
+
+
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:400px;
+    float:left;
+    padding:5px;	      
+}
+
+section {
+    width:300px;
+    float:left;
+    padding:20px;	 	 
+}
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+li {
+    display: inline;
+    margin left: 20px;
+}
+
+p.pos_fixed {
+    position: fixed;
+    top: 200px;s
+    left:500px;
+    color: red;
+
