@@ -1,0 +1,50 @@
+/* Header Decoration */
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;	 
+}
+
+/* Input Section Decoration */
+nav {
+    display:block;
+    line-height:30px;
+    background-color:#eeeeee;
+    height:450px;
+    width:375px;
+    float:left;
+    padding-left:25px;	      
+}
+
+/* Output Section Decoration */
+section {
+    width:500px;
+    float:left;
+    padding:25px;	 	 
+}
+
+/* Footer Decoration */
+footer {
+    background-color:black;
+    /*float:left;*/
+    clear: both;
+    text-align: center;
+    padding:10px;
+    width:1000px;
+    color:white;	 	 
+}
+
+/* List Decoration */
+li {
+    display: inline;
+    margin-right: 75px;
+    padding: 50px;
+}
+
+/* Paragraph Decoration */
+p.pos_fixed {
+    position: fixed;
+    top: 200px;
+    left:500px;
+}
