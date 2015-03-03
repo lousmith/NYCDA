@@ -1,0 +1,13 @@
+/* Set Body Attributes */
+body {
+	font-family: 'Cabin', sans-serif;
+	padding:20px;
+}
+
+/* Define Element */
+.test_item {
+	background-color: lightblue;
+	padding:10px;
+	margin-bottom:10px;
+	border-radius: 15px;
+}
